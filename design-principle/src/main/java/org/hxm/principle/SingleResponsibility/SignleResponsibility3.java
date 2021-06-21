@@ -20,7 +20,7 @@ public class SignleResponsibility3 {
          * 1、类层面违反单一职责原则，但方法上是单一职责原则(比如:如果需要对汽车限行只需要修改RoadRun方法即可)
          * 2、反单一职责原则，只可在类中方法较少的情况下
          * 3、
-         *{@Link SignleResponsibility2}
+         *{@Link SignleR esponsibility2}
          *
          *
          *
