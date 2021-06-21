@@ -1,4 +1,4 @@
-package org.hxm.principle.SingleResponsibility;
+package org.hxm.principle.singleResponsibility;
 
 /**
  * @author aaron.hu
